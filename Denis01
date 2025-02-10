@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Продаж Автомобілів</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>АвтоМаркет</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="cars.html">Автомобілі</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <h2>Купуйте якісні автомобілі за вигідними цінами!</h2>
+        <p>Перегляньте наш каталог і оберіть авто своєї мрії.</p>
+        <a href="cars.html" class="btn">Дивитися авто</a>
+    </section>
+</body>
+</html>
