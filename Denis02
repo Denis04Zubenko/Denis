@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Автомобілі в продажу</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>АвтоМаркет</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="cars.html">Автомобілі</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="car-list">
+        <div class="car">
+            <img src="car1.jpg" alt="BMW X5">
+            <h3>BMW X5</h3>
+            <p>Ціна: $35,000</p>
+            <button>Детальніше</button>
+        </div>
+        <div class="car">
+            <img src="car2.jpg" alt="Toyota Camry">
+            <h3>Toyota Camry</h3>
+            <p>Ціна: $25,000</p>
+            <button>Детальніше</button>
+        </div>
+    </section>
+</body>
+</html>
